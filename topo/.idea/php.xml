@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server deployment_server="3014db3c-b766-4de2-82b8-077d55451cb9" host="localhost" id="8f754c74-4aca-4b70-9364-3edaf0167131" name="Apache" />
+    </servers>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+</project>
