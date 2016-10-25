@@ -14,7 +14,7 @@ Use php to call cmd and get topology data(json). From server to browser, we use 
 ubuntu,ecilpse,phpstorm,apache2,php5.5,floodlight,mininet
 
 ## technology
-Rest api in floodlight: java, rest api, json serialization and deserialization, URL package, Gson.<br>
-Web: json, php, js(raphael,jquery), ajax, html.
+Rest API in floodlight: java, rest API, json serialization and deserialization, URL package, Gson.<br>
+Web: json, php, js(raphael,jquery), ajax, html, css.
 
 
